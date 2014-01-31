@@ -1,0 +1,4 @@
+sitemap
+=======
+
+Laravel Sitemap Generator
