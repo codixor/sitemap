@@ -1,4 +1,1 @@
-sitemap
-=======
-
-Laravel Sitemap Generator
+# Sentry Social
